@@ -407,6 +407,7 @@
 				17FF7F8D19E5965F001E3D22 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		17FF7F8E19E5965F001E3D22 /* Build configuration list for PBXNativeTarget "ShoeConverterTests" */ = {
 			isa = XCConfigurationList;
@@ -415,6 +416,7 @@
 				17FF7F9019E5965F001E3D22 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
